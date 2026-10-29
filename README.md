@@ -78,14 +78,3 @@ Metrics are calculated only on periods where an actual and selected forecast bot
 - Update `VITE_API_BASE_URL` to the deployed backend URL and rebuild the frontend.
 
 Vercel hosts the React frontend; it does not automatically host this FastAPI service. Deploy the backend separately and connect the frontend to it.
-
-## AI assistance disclosure
-AI tools were used to assist with scaffolding, implementation, and documentation. Review and test the code before submission.
-
-## Before submitting
-1. Confirm the Elexon API parameters and returned field names against current official documentation.
-2. Run the application and check live API mode.
-3. Keep screenshots/video honest about whether data is live or demo.
-4. Create your own public GitHub repository with an anonymous repository name if required by the assignment.
-5. Record the required demo video (customer overview and technical walkthrough, total maximum 10 minutes).
-6. Deploy both frontend and backend and add the live frontend URL above.
