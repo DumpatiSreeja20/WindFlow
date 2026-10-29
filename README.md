@@ -28,6 +28,11 @@ Open:
 - Backend API docs: http://localhost:8000/docs
 - Health: http://localhost:8000/health
 
+
+
+- WindFlow Website: https://wind-flow-iota.vercel.app
+- Backend API: https://windflow-et96.onrender.com
+- API Documentation: https://windflow-et96.onrender.com/docs
 Stop:
 ```bash
 docker compose down
